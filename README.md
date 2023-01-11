@@ -1,18 +1,18 @@
-# Implement-SCD-in-Talend-to-Capture-Data-Changes
+# Implemented-SCD-in-Talend-to-Capture-Data-Changes
  ETL pipeline in Talend to capture data changes using SCD techniques
  
-Tech Stack
+## Tech Stack
 
 ➔ Tool: Talend Open Studios.
 
 ➔ Database: MySQL, PostgreSQL.
 
-Architecture Diagram
+## Architecture Diagram
 
 
 ![image](https://user-images.githubusercontent.com/83747142/211928586-ba2da3da-2dc1-454d-bdf5-94d1196b4095.png)
 
-Procedures Carried Out:
+## Procedures Carried Out:
 
 •	Extract-Transform-Load process.
 
